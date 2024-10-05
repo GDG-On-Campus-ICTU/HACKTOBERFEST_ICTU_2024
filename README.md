@@ -44,26 +44,26 @@ Click on the "Fork" button at the top right of this repository. This will create
 
 Once you've forked the repository, clone it to your local machine.
 
-git clone https://github.com/your-username/Cosmic-Canvas.git
+'git clone https://github.com/your-username/Cosmic-Canvas.git'
 ###🎨 4. Pick an Issue
 Look through the issues section. We've tagged some beginner-friendly issues with good first issue to help newcomers get started.
 
 ###💡 5. **Create a New Feature Branch**
 Make a new branch to work on your feature or fix:
 
-git checkout -b feature/your-feature-name
+'git checkout -b feature/your-feature-name'
 ### 📝 6. **Make Your Changes**
 Edit files, add features, fix bugs, or update documentation. Be sure to test your changes thoroughly.
 
 ### 🔄 7. **Commit Your Changes**
 Once you're happy with your changes, commit them with a descriptive message:
 
-git add .
-git commit -m "Add a detailed message about your changes"
+'git add .'
+'git commit -m "Add a detailed message about your changes"'
 ### ⬆️ 8. **Push to Your Branch**
 Push your changes back to your forked repository:
 
-git push origin feature/your-feature-name
+'git push origin feature/your-feature-name'
 ### 🔔 9. **Create a Pull Request**
 Go to your forked repository on GitHub and click on the "Compare & pull request" button. Fill out the PR template and submit it for review.
 
